@@ -11,11 +11,13 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
+<div align="left" valign="top"><br>
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div><br>
+  
+  ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=fl3via&show_icons=true&theme=vision-friendly-dark" alt="flavia stats"/>
@@ -26,7 +28,4 @@
 
 ## 👩🏻&nbsp;Social Links
 
-<a href="https://www.linkedin.com/in/fl%C3%A1via-mendes-066340232/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/fl%C3%A1viamendes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
+ <a href="https://www.linkedin.com/in/fl%C3%A1via-mendes-066340232FLAVIAMENDES/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
