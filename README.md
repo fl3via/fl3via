@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Flávia Mendes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fl3via&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer 
+- 🔥 Junior Front-End Web Developer 
 
 - 💬 Ask me about **JavaScript, HTML, CSSS**
 
