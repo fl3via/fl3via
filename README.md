@@ -1,33 +1,20 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Flávia Mendes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fl3via&color=yellow" alt="Profile views" /> </p>
+ # *Hi! I'm Flávia* 🤟🏻
 
-- 🔥 Junior Front-End Web Developer 
+- 👩🏻‍💻 Junior **Full Stack** 
 
-- 💬 Ask me about **JavaScript, HTML, CSSS**
+- 💬 Ask me about **React, HTML, CSS**
 
 - ⚡ Fun fact **in love with nature 🌱**
 
-<br><br>
+## 🛠 Technologies
 
-## 🛠 &nbsp;Tech Stack
+![Logo do R](https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor)
+![Logo do R](https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor)
+![Logo do R](https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor)
+![Logo do R](https://icongr.am/devicon/react-original.svg?size=40&color=currentColor)
+![Logo do R](https://icongr.am/devicon/git-original.svg?size=40&color=currentColor)
+![Logo do R](https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor)
 
-<div align="left" valign="top"><br>
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=77&color=currentColor">
-</div><br>
-  
-  ## ⚙️ &nbsp;GitHub Analytics
+## Social Links
+[![Linkedin](https://icongr.am/devicon/linkedin-original.svg?size=40&color=currentColor)](https://www.linkedin.com/in/fl3via/)
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fl3via&show_icons=true&theme=vision-friendly-dark" alt="flavia stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl3via&layout=compact&theme=vision-friendly-dark" alt="flavia most languages"/>
-</p>
-
-<br><br>
-
-## 👩🏻&nbsp;Social Links
-
- <a href="https://www.linkedin.com/in/fl3via/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=currentColor" target="_blank"></a> 
