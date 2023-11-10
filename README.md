@@ -1,6 +1,8 @@
- # *Hi! I'm Flávia* 🤟🏻
+ # ***Hi! I'm Flávia*** 🤟🏻
 
--  **Full Stack** focused in **Front End** 
+- 👩🏻‍💻 **Full Stack** focused in **Front End**
+
+- 💻 Studying ***Systems Analysis and Development***
 
 - 💬 Ask me about **React** and **NodeJS**
 
