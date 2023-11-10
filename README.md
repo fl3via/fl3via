@@ -1,14 +1,14 @@
  # ***Hi! I'm Flávia*** 🤟🏻
 
-- 👩🏻‍💻 **Full Stack** focused in **Front End**
+- 💻 **Full Stack** focused in **Front End**
 
-- 💻 Studying ***Systems Analysis and Development***
+- 📌 Studying ***Systems Analysis and Development***
 
 - 💬 Ask me about **React** and **NodeJS**
 
 - ⚡ Fun fact **in love with nature 🌱**
 
-## 🛠 Technologies
+## 🖱️ Technologies
 
 ![JAVASCRIPT](https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor)
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor)
@@ -23,7 +23,7 @@
 ![TRELLO](https://icongr.am/devicon/trello-plain.svg?size=40&color=currentColor)
 
 
-## Social Links
+##  🌐 Social Links
 <a href='https://www.linkedin.com/in/flaviamendesz/' target="_blank"><img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
  <a href = "mailto:flaviam.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
